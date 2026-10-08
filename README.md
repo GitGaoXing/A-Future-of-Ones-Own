@@ -27,9 +27,9 @@ These two reasons point in the same direction, and I see no need to hide either 
 
 ## Disclaimer and license
 
-This declaration is a personal initiative. It reflects only my own views and does not represent any organization, including my employer.
+This is a personal project. The views expressed here are my own and do not represent the position of my employer or any other organization.
 
-It is licensed under [CC BY 4.0](LICENSE): anyone may share, translate, and adapt it, provided they give credit as the license requires. Questions, criticism, and suggested revisions are welcome via Issues.
+The declaration is licensed under [CC BY 4.0](LICENSE): anyone may share, translate, and adapt it, provided they give credit as the license requires. Questions, criticism, and suggested revisions are welcome via Issues.
 
 ---
 
@@ -62,6 +62,6 @@ It is licensed under [CC BY 4.0](LICENSE): anyone may share, translate, and adap
 
 ## 声明与许可
 
-这份宣言由我个人发起，只代表我个人的看法，不代表任何组织，包括我任职的机构。
+这是我的个人项目，文中观点仅代表我本人，不代表我任职的公司或任何其他组织的立场。
 
-它以 [CC BY 4.0](LICENSE) 许可发布：任何人都可以转载、翻译和改编，只需按许可要求署名。欢迎通过 Issues 提出质疑、批评与修改建议。
+这份宣言以 [CC BY 4.0](LICENSE) 许可发布：任何人都可以转载、翻译和改编，只需按许可要求署名。欢迎通过 Issues 提出质疑、批评与修改建议。
