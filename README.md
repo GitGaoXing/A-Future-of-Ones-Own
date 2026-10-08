@@ -8,6 +8,8 @@
 
 A declaration for a possible future: if the limits of lifespan and material scarcity are lifted, how might artificial intelligences, enhanced and unenhanced humans, and intelligences yet to emerge coexist and continue across generations?
 
+Much is said today about a coming age of abundance. This declaration takes that possibility seriously, and asks what abundance alone will not settle.
+
 - [Full text](A_Future_of_Ones_Own.md)
 - [Short version](A_Future_of_Ones_Own_short.md)
 
@@ -38,6 +40,8 @@ It is licensed under [CC BY 4.0](LICENSE): anyone may share, translate, and adap
 > 智能可以不断被超越，但主体不应因此失去属于自己的未来。
 
 这是一份写给未来的宣言：如果寿命与物质的约束被解除，人工智能、增强或未增强的人类，以及尚未出现的智能，应当如何共存，如何传承。
+
+如今很多人在谈论即将到来的丰裕时代。这份宣言认真对待这种可能，并追问：丰裕本身解决不了什么。
 
 - [完整版](属于自己的未来.md)
 - [短版](属于自己的未来_短版.md)
