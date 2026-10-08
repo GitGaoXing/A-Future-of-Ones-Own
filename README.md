@@ -4,7 +4,7 @@
 
 **English** | [中文](#属于自己的未来)
 
-> Intelligence may be surpassed again and again, but no being should thereby lose a future of its own.
+**Intelligence may be surpassed again and again, but no being should thereby lose a future of its own.**
 
 A declaration for a world that may come: if the limits of lifespan and material scarcity are lifted, how might artificial intelligences, enhanced and unenhanced humans, and intelligences yet to emerge coexist and continue across generations?
 
@@ -39,7 +39,7 @@ It is licensed under [CC BY 4.0](LICENSE): anyone may share, translate, and adap
 
 [English](#a-future-of-ones-own) | **中文**
 
-> 智能可以不断被超越，但主体不应因此失去属于自己的未来。
+**智能可以不断被超越，但主体不应因此失去属于自己的未来。**
 
 这份宣言面向一个可能到来的世界：如果寿命与物质的约束被解除，人工智能、增强或未增强的人类，以及尚未出现的智能，应当如何共存，如何传承。
 
