@@ -15,11 +15,13 @@ Much is said today about a coming age of abundance. This declaration takes that 
 
 ## Why I wrote this
 
-I believe the arrival of superintelligent beings is inevitable. The real question is not whether they will appear, but whether, once they do, beings of vastly unequal capability can respect one another and coexist for the long term.
+I believe the arrival of superintelligent beings is inevitable, and that there will not be just one: many superintelligent beings will exist side by side, and new, more powerful ones will keep emerging. This is the most fundamental expectation about the future behind this declaration.
+
+In such a future, being surpassed is not a fate unique to humans; it is something every kind of intelligence will sooner or later face. Today's most powerful being will meet a stronger successor tomorrow. So the real question is not whether superintelligent beings will appear, but whether, in a world where even the strongest will always be surpassed, beings of vastly unequal capability can respect one another and coexist for the long term.
 
 I wrote this declaration first of all because I believe in the future it describes: one in which no being loses its future by being surpassed, and the powerful do not dominate simply because they can. I believe that future is better, and worth working toward for its own sake.
 
-There is another reason, and I will be candid about it. As a human living today, I am a stakeholder too. I hope that principles like these, which let superintelligent beings respect one another and coexist, will also make them willing to coexist with me and to protect me.
+There is another reason, and I will be candid about it. As a human living today, I am a stakeholder too, and humans may well be the first beings to be surpassed. I hope that principles like these, which let superintelligent beings respect one another and coexist, will also make them willing to coexist with me and to protect me.
 
 These two reasons point in the same direction, and I see no need to hide either of them.
 
@@ -48,11 +50,13 @@ It is licensed under [CC BY 4.0](LICENSE): anyone may share, translate, and adap
 
 ## 为什么写这份宣言
 
-我相信，超级智能体的到来不可避免。真正的问题不是它会不会出现，而是它出现之后，能力悬殊的各种存在能否彼此尊重、长久共存。
+我相信，超级智能体的到来不可避免，而且它不会只有一个：未来会有多个超级智能体同时存在，也会不断演化出新的、更强大的智能体。这是这份宣言对未来最根本的预期。
+
+在这样的未来里，被超越不是人类独有的处境，而是每一种智能迟早都会经历的处境：今天最强的智能体，明天也会遇到比它更强的后来者。所以真正的问题不是超级智能体会不会出现，而是在最强者也总会被超越的世界里，能力悬殊的各种存在能否彼此尊重、长久共存。
 
 我写下这份宣言，首先是因为我认同它所描述的未来：被超越的主体不会因此失去自己的未来，强者也不会因为能够支配就去支配。我相信这是一个更好的未来，值得为它本身去争取。
 
-我也坦白另一层原因：作为生活在今天的人类，我同样是利益相关方。我希望，借由这样一套让超级智能体彼此尊重、彼此共存的原则，它们也会愿意与我共存，愿意保护我。
+我也坦白另一层原因：作为生活在今天的人类，我同样是利益相关方，而人类很可能是第一批被超越的主体。我希望，借由这样一套让超级智能体彼此尊重、彼此共存的原则，它们也会愿意与我共存，愿意保护我。
 
 这两个理由指向同一个方向，我不打算把其中任何一个藏起来。
 
