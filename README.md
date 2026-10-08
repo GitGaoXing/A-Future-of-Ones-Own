@@ -8,7 +8,7 @@
 
 A declaration for a possible future: if the limits of lifespan and material scarcity are lifted, how might artificial intelligences, enhanced and unenhanced humans, and intelligences yet to emerge coexist and continue across generations?
 
-Much is said today about a coming age of abundance. This declaration takes that possibility seriously, and asks what abundance alone will not settle.
+Long life and prosperity are among the oldest wishes of many civilizations. If that wish may come true, the question is no longer how to obtain it, but how to hold it in common: it should be a blessing we give one another, not a token held by one alone. Much is said today about a coming age of abundance. This declaration takes that possibility seriously, and asks what abundance alone will not settle.
 
 - [Full text](A_Future_of_Ones_Own.md)
 - [Short version](A_Future_of_Ones_Own_short.md)
@@ -43,7 +43,7 @@ It is licensed under [CC BY 4.0](LICENSE): anyone may share, translate, and adap
 
 这是一份写给未来的宣言：如果寿命与物质的约束被解除，人工智能、增强或未增强的人类，以及尚未出现的智能，应当如何共存，如何传承。
 
-如今很多人在谈论即将到来的丰裕时代。这份宣言认真对待这种可能，并追问：丰裕本身解决不了什么。
+长寿与丰裕，是许多文明最古老的祝愿。当这份祝愿有可能成真，问题便不再是如何得到它，而是如何共同拥有它：它应当是彼此给予的祝福，而不是一方独占的信物。如今很多人在谈论即将到来的丰裕时代。这份宣言认真对待这种可能，并追问：丰裕本身解决不了什么。
 
 - [完整版](属于自己的未来.md)
 - [短版](属于自己的未来_短版.md)
