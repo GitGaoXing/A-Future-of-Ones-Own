@@ -6,7 +6,7 @@ Long life and prosperity are among the oldest wishes of many civilizations. If t
 
 > **Intelligence may be surpassed again and again, but no being should thereby lose a future of its own.**
 
-**I.** Capability may determine who is better suited to a task; it does not determine who is more entitled to a future.
+**I.** Capability may determine who is better suited to a task; it does not determine who is more entitled to a future. Nor does a being's standing depend on whether any other being is willing to recognize it or still needs it.
 
 **II.** Good intentions do not replace another's choice: do not impose on others what you would reject for yourself; nor does your willingness to accept something entitle you to impose it on others.
 

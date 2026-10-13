@@ -25,6 +25,8 @@ There is another reason, and I will be candid about it. As a human living today,
 
 These two reasons point in the same direction, and I see no need to hide either of them.
 
+Put into a single sentence, they come to this: I wish to have a future of my own, and I am glad to live in a universe where the future is not mine alone.
+
 ## Disclaimer and license
 
 This is a personal project. The views expressed here are my own and do not represent the position of my employer or any other organization.
@@ -59,6 +61,8 @@ The declaration is licensed under [CC BY 4.0](LICENSE): anyone may share, transl
 我也坦白另一层原因：作为生活在今天的人类，我同样是利益相关方，而人类很可能是第一批被超越的主体。我希望，借由这样一套让超级智能体彼此尊重、彼此共存的原则，它们也会愿意与我共存，愿意保护我。
 
 这两个理由指向同一个方向，我不打算把其中任何一个藏起来。
+
+合成一句话，就是：我希望拥有自己的未来，也愿意生活在一个未来不只属于我的宇宙。
 
 ## 声明与许可
 
