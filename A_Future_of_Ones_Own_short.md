@@ -20,7 +20,7 @@ Long life and prosperity are among the oldest wishes of many civilizations. If t
 
 **VII.** Continuing is a right, not a duty; finitude is a choice, not a punishment. Neither death, nor immortality, nor any particular substrate should be the price of recognition.
 
-Where the matter is uncertain, we would rather err toward recognizing a being as a subject; an inability to understand or to communicate is no reason to deny its standing.
+Where there is substantive evidence but the matter remains uncertain, we would rather err toward recognizing a being as a subject; an inability to understand or to communicate is no reason to deny its standing.
 
 Those who come after us may question, revise, or replace this declaration. What is handed down is a commitment, not a seal.
 
